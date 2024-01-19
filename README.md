@@ -1,3 +1,7 @@
 # virus_verify
 
-> 小组成员： 洪佳慧， 李泽华
+> members： JiahuiHong(洪佳慧)， ZehuaLi(李泽华)
+
+## project Introduction
+
+Verification of Environmental RNA Virus Classification
